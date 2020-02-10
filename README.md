@@ -2,7 +2,7 @@
 
 Online chess game built with chess.js (game engine) and chessboard.js (frontend).
 
-## Stack:
+## Stack
 * Nginx
 * MySQL
 * Node.js
